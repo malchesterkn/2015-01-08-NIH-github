@@ -40,7 +40,7 @@ print ("hello")
 
 ```
 
-```{r}
+```{r, echo=FALSE}
  plot(cars)
 
 ```
