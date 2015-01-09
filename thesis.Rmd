@@ -6,8 +6,12 @@ output: html_document
 #Thesis
 
 this is *really* cool
+
 ##Intro
-stuf
+
+`print("hello")`
+
+
 
 #Methods
 
@@ -21,3 +25,18 @@ stuf
 
 #Discussion
 things
+
+##Results
+
+```{r}
+results <- c(1, 2, 3, 4, 5)
+print (results)
+
+```
+
+
+```{r}
+print ("hello")
+
+```
+
