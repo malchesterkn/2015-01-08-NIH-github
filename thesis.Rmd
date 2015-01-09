@@ -5,6 +5,7 @@ output: html_document
 
 #Thesis
 
+this is *really* cool
 ##Intro
 stuf
 
